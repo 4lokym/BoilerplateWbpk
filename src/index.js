@@ -1,3 +1,5 @@
 import "./style.css";
 
-alert("ciao");
+export function get2(){
+  return 2;
+}
